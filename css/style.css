@@ -900,7 +900,7 @@ img {
   display: block;
   width: 16px;
   height: 15px;
-  border: 1px solid #212121;
+  border: 2px solid #212121;
   cursor: pointer;
   border-radius: 2px;
   margin-right: 10px;
